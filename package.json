@@ -1,0 +1,19 @@
+{
+  "name": "dhk_settlementhandler",
+  "version": "1.0.0",
+  "description": "Settlement Handler - Connects to regnosys api endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Ashfaq Ahmed S",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
